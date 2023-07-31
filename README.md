@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img scr="CondePuglia/CondePuglia/Hello_There"></img>
-<iframe src="https://giphy.com/embed/VKEOwYXSBbzmLPhtG4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p>
-  <a href="https://giphy.com/gifs/bestfriends-best-friends-adopt-animal-society-VKEOwYXSBbzmLPhtG4">via GIPHY</a>
-</p>
+<img scr="CondePuglia/CondePuglia/Hello_There " width="480" height="270"></img>
+
+
