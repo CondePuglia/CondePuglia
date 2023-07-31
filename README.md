@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img scr="CondePuglia/CondePuglia/Hello_There " width="480" height="270"><iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p></img>
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+<img src="CondePuglia/CondePuglia/Hello_There " width="480" height="270"><</img>
+
 
