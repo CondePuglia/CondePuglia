@@ -1,5 +1,7 @@
 <h1>Hi there 👋</h1>
-  <img src="[CondePuglia/CondePuglia/giphy.gi]<https://giphy.com/clips/mtvridiculousness-hello-there-ridiculousness-mtv-KDOidC6tStPwrgkZCa>https://giphy.com/clips/mtvridiculousness-hello-there-ridiculousness-mtv-KDOidC6tStPwrgkZCa" width="480" height="270"></img>
+  <img src="" width="480" height="270"></img>
 
-
+<p>Hi, I'am Ricardo and I'am currently a student at Instituto Federal de São Paulo - Campus Votuporanga.<br>
+   
+</p>
 
